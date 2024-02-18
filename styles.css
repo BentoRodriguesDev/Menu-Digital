@@ -1,0 +1,112 @@
+body {
+    background-image: url("img/trigo.jpg");
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-style: Arial;
+    color: white;
+    font-size: 30px;
+  }
+  
+  .established {
+    color: white;
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    font-style: Arial; 
+    color: white;
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: rgb(3, 3, 3);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    border-radius: 18px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    height: 40px;
+  }
+  
+  .batata {
+    margin-left: 55%;
+  }
+  
+  hr {
+    color: white;
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    color: white;
+    font-family: Arial, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .sanduiche, .bebida {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .preço {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    color: white;
+    font-size: 14px;
+  }
+  
+  .address {
+    color: white;
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: rgb(255, 255, 255);
+  }
+  
+  a:visited {
+    color: rgb(250, 250, 250);
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
